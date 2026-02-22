@@ -7457,7 +7457,6 @@ Payer&apos;s Movement Phase continues, starting wit m performing a Fall Back Mov
         </selectionEntryGroup>
       </selectionEntryGroups>
       <infoLinks>
-        <infoLink name="Light Transport" id="ba6c-c0ac-8485-b443" hidden="false" type="rule" targetId="d451-f7f3-fc8f-db23"/>
         <infoLink name="[Allegiance]" id="652a-6581-d6a8-1742" hidden="false" type="profile" targetId="bb66-f1f6-4d65-5a07"/>
       </infoLinks>
       <costs>
